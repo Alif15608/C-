@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LAb TAsk 4.3/1.0.0": {
+        "runtime": {
+          "LAb TAsk 4.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAb TAsk 4.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

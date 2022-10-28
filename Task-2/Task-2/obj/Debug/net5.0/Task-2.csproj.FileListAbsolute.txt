@@ -1,0 +1,16 @@
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\bin\Debug\net5.0\Task-2.exe
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\bin\Debug\net5.0\Task-2.deps.json
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\bin\Debug\net5.0\Task-2.runtimeconfig.json
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\bin\Debug\net5.0\Task-2.runtimeconfig.dev.json
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\bin\Debug\net5.0\Task-2.dll
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\bin\Debug\net5.0\ref\Task-2.dll
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\bin\Debug\net5.0\Task-2.pdb
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.AssemblyInfo.cs
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.dll
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\ref\Task-2.dll
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.pdb
+C:\Users\ASUS\Music\OOP2\Task-2\Task-2\obj\Debug\net5.0\Task-2.genruntimeconfig.cache

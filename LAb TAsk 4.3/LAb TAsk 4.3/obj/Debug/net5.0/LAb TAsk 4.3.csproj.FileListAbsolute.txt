@@ -1,0 +1,16 @@
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\bin\Debug\net5.0\LAb TAsk 4.3.exe
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\bin\Debug\net5.0\LAb TAsk 4.3.deps.json
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\bin\Debug\net5.0\LAb TAsk 4.3.runtimeconfig.json
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\bin\Debug\net5.0\LAb TAsk 4.3.runtimeconfig.dev.json
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\bin\Debug\net5.0\LAb TAsk 4.3.dll
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\bin\Debug\net5.0\ref\LAb TAsk 4.3.dll
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\bin\Debug\net5.0\LAb TAsk 4.3.pdb
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.AssemblyInfo.cs
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.dll
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\ref\LAb TAsk 4.3.dll
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.pdb
+C:\Users\ASUS\Music\OOP2\LAb TAsk 4.3\LAb TAsk 4.3\obj\Debug\net5.0\LAb TAsk 4.3.genruntimeconfig.cache
