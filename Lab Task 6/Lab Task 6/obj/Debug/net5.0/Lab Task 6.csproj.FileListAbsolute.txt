@@ -1,0 +1,16 @@
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\bin\Debug\net5.0\Lab Task 6.exe
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\bin\Debug\net5.0\Lab Task 6.deps.json
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\bin\Debug\net5.0\Lab Task 6.runtimeconfig.json
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\bin\Debug\net5.0\Lab Task 6.runtimeconfig.dev.json
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\bin\Debug\net5.0\Lab Task 6.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\bin\Debug\net5.0\ref\Lab Task 6.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\bin\Debug\net5.0\Lab Task 6.pdb
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.AssemblyInfo.cs
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\ref\Lab Task 6.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.pdb
+C:\Users\ASUS\Music\OOP2\Lab Task 6\Lab Task 6\obj\Debug\net5.0\Lab Task 6.genruntimeconfig.cache

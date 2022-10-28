@@ -1,0 +1,16 @@
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.AssemblyInfo.cs
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\bin\Debug\net5.0\Final Lab Task 1.exe
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\bin\Debug\net5.0\Final Lab Task 1.deps.json
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\bin\Debug\net5.0\Final Lab Task 1.runtimeconfig.json
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\bin\Debug\net5.0\Final Lab Task 1.runtimeconfig.dev.json
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\bin\Debug\net5.0\Final Lab Task 1.dll
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\bin\Debug\net5.0\ref\Final Lab Task 1.dll
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\bin\Debug\net5.0\Final Lab Task 1.pdb
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.dll
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\ref\Final Lab Task 1.dll
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.pdb
+C:\Users\ASUS\Music\OOP2\Final Lab Task 1\Final Lab Task 1\obj\Debug\net5.0\Final Lab Task 1.genruntimeconfig.cache
