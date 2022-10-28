@@ -1,0 +1,16 @@
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.AssemblyInfo.cs
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\bin\Debug\net5.0\Midterm Lab Task.exe
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\bin\Debug\net5.0\Midterm Lab Task.deps.json
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\bin\Debug\net5.0\Midterm Lab Task.runtimeconfig.json
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\bin\Debug\net5.0\Midterm Lab Task.runtimeconfig.dev.json
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\bin\Debug\net5.0\Midterm Lab Task.dll
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\bin\Debug\net5.0\ref\Midterm Lab Task.dll
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\bin\Debug\net5.0\Midterm Lab Task.pdb
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.dll
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\ref\Midterm Lab Task.dll
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.pdb
+C:\Users\ASUS\Music\OOP2\Midterm Lab Task\Midterm Lab Task\obj\Debug\net5.0\Midterm Lab Task.genruntimeconfig.cache
