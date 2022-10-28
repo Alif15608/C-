@@ -1,0 +1,5 @@
+C:\Users\ASUS\Music\OOP2\Final xm\Final xm\obj\Debug\net5.0\Final xm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\OOP2\Final xm\Final xm\obj\Debug\net5.0\Final xm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\OOP2\Final xm\Final xm\obj\Debug\net5.0\Final xm.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\OOP2\Final xm\Final xm\obj\Debug\net5.0\Final xm.AssemblyInfo.cs
+C:\Users\ASUS\Music\OOP2\Final xm\Final xm\obj\Debug\net5.0\Final xm.csproj.CoreCompileInputs.cache

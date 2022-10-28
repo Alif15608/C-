@@ -1,0 +1,16 @@
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.AssemblyInfo.cs
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\bin\Debug\net5.0\Lab Task 4.1.exe
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\bin\Debug\net5.0\Lab Task 4.1.deps.json
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\bin\Debug\net5.0\Lab Task 4.1.runtimeconfig.json
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\bin\Debug\net5.0\Lab Task 4.1.runtimeconfig.dev.json
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\bin\Debug\net5.0\Lab Task 4.1.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\bin\Debug\net5.0\ref\Lab Task 4.1.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\bin\Debug\net5.0\Lab Task 4.1.pdb
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\ref\Lab Task 4.1.dll
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.pdb
+C:\Users\ASUS\Music\OOP2\Lab Task 4.1\Lab Task 4.1\obj\Debug\net5.0\Lab Task 4.1.genruntimeconfig.cache
